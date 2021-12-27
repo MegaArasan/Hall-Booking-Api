@@ -1,0 +1,18 @@
+//   for create room
+   {
+ "noofseats":"6" ,
+ "amendies":[   "Child daycare",
+ "Bike racks",
+ "Lobby reception",
+   "Fitness facility",
+ "Covered parking"],
+ "price for 1hour":"800"  
+ }
+//  for room booking
+ {
+     "roomId":"101",
+     "customerName":"Mega",
+     "date":"27/12/2021",
+     "startTime":"9.30am",
+     "endTime":"10.45pm"
+ }
